@@ -1,0 +1,14 @@
+rows: 1
+cols: 1
+
+print
+PLANT (0,0) iris
+PRINT
+grow 1
+print
+grow 1
+print
+grow 1
+print
+grow 1
+print
